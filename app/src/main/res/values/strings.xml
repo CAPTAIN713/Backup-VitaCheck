@@ -28,4 +28,19 @@
     <string name="prompt_dob">Date of Birth</string>
     <string name="prompt_weight">Weight</string>
 
+    <!--  Strings related to doctors -->
+    <string name="doctor">Doctor</string>
+    <string name="saved_doctors">Saved Doctors</string>
+    <string name="edit_doctor">Edit Doctor</string>
+    <string name="add_Doctor">Add Doctor</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="insurance">Insurance</string>
+    <string name="phone_number">Phone #</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="website_link">Website</string>
+    <string name="vist_datas">Visit Dates</string>
+
 </resources>
