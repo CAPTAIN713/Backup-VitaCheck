@@ -29,6 +29,7 @@
     <string name="prompt_weight">Weight</string>
 
     <!--  Strings related to doctors -->
+    <string name="title_doctor_home_page">Doctors</string>
     <string name="doctor">Doctor</string>
     <string name="saved_doctors">Saved Doctors</string>
     <string name="edit_doctor">Edit Doctor</string>
